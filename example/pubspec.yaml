@@ -1,0 +1,22 @@
+name: example
+description: An example project for diagonal library.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  diagonal:
+    path: ../
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/images/backdrop.jpg
+

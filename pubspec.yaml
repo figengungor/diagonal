@@ -1,0 +1,13 @@
+name: diagonal
+description: Create diagonal clipped widgets easily.
+version: 1.0.0
+author: Figen Güngör
+homepage: https://github.com/figengungor/diagonal
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
