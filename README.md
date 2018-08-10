@@ -2,20 +2,11 @@
 
 Apply diagonal clipping to your widgets easily.
 
-## Using
-
-Import package
-
-```import 'package:diagonal/diagonal.dart';```
-
-```dart
-Diagonal(
-  child: Image.asset('assets/images/backdrop.jpg'),
-  clipHeight: 90.0,
-)
-```
 
 ## Example
+
+![](example/assets/images/ss.jpg)
+
 
 ```dart
 import 'package:diagonal/diagonal.dart';
@@ -64,3 +55,8 @@ class DiagonalExamples extends StatelessWidget {
   }
 }
 ```
+
+
+## Credits
+
+Photo by Jannis Brandt on Unsplash
