@@ -4,6 +4,7 @@
 .idea
 .packages
 .pub/
+.fvm/
 build/
 ios/.generated/
 packages

@@ -1,3 +1,7 @@
+## [2.0.0-nullsafety.0] - 1/11/2021
+
+* Migrated to null-safety
+
 ## [1.0.1] - 8/11/2018
 ​
 - Upgrade to Dart 2

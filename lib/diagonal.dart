@@ -10,12 +10,11 @@ class Diagonal extends StatelessWidget {
   final Position position;
 
   const Diagonal(
-      {Key key,
-      @required this.child,
+      {Key? key,
+      required this.child,
       this.clipHeight = 0.0,
       this.position = Position.BOTTOM_LEFT})
-      : assert(child != null),
-        assert(clipHeight >= 0.0, 'clipHeight cannot be smaller than 0.0'),
+      : assert(clipHeight >= 0.0, 'clipHeight cannot be smaller than 0.0'),
         super(key: key);
 
   @override
